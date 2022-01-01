@@ -6,3 +6,4 @@ The two hidden layers each have 32 neurons. After training through the 50,000 sa
 <img width="568" alt="Screen Shot 2021-12-31 at 9 24 31 PM" src="https://user-images.githubusercontent.com/37377528/147842851-73f959bd-cb2c-4742-9ef2-d966cd181309.png">
 </p>
 
+Future improvement: This program needs to be written more OOP than how it is right now.
